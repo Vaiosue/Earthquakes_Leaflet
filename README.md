@@ -1,6 +1,6 @@
 # Earthquakes_Leaflet
 
-# Unit 17 | Assignment - Visualizing Data with Leaflet
+## Visualizing Data with Leaflet
 
 ## Background
 
